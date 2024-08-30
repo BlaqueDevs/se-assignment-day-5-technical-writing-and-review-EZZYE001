@@ -3,10 +3,10 @@
 
 Understanding your audience's expertise level shapes how you present technical information by:
 
-Language: Use jargon for experts, simplify for non-experts.
-Detail: Go deep for experts, focus on practical aspects for non-experts.
-Structure: Technical accuracy for experts, clear and simple for non-experts.
-Examples: Technical for experts, everyday analogies for non-experts.
+1. Language: Use jargon for experts, simplify for non-experts.
+2. Detail: Go deep for experts, focus on practical aspects for non-experts.
+3. Structure: Technical accuracy for experts, clear and simple for non-experts.
+4. Examples: Technical for experts, everyday analogies for non-experts.
 This ensures your message is clear and effective.
 
 
